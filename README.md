@@ -1,3 +1,3 @@
 ##wiki##
 
-	1. [Semantic Versioning](http://semver.org/)
+*	[Semantic Versioning](http://semver.org/)
